@@ -1,0 +1,6 @@
+{
+  "short_name": "Carsharing dApp",
+  "name": "Carsharing dApp with CRA",
+  "start_url": ".",
+  "display": "standalone"
+}
